@@ -1,0 +1,16 @@
+transaction_id,category,amount,date,description
+T001,Food,120.00,2025-07-01,Chai and Samosa
+T002,Transport,350.00,2025-07-02,Uber to Office
+T003,Entertainment,499.00,2025-07-03,Netflix Subscription
+T004,Shopping,1500.00,2025-07-04,Amazon Purchase
+T005,Food,200.00,2025-07-05,Office Lunch
+T006,Transport,50.00,2025-07-06,Metro Recharge
+T007,Entertainment,800.00,2025-07-07,Movie with Friends
+T008,Food,100.00,2025-07-08,Street Food Dinner
+T009,Shopping,1200.00,2025-07-09,Myntra Sale
+T010,Food,350.00,2025-07-10,Zomato Weekend Order
+T011,Transport,500.00,2025-07-11,Fuel for Bike
+T012,Entertainment,250.00,2025-07-12,Mobile Game Purchases
+T013,Shopping,2000.00,2025-07-13,Big Bazaar Grocery
+T014,Food,180.00,2025-07-14,Tea Breaks and Snacks
+T015,Transport,120.00,2025-07-15,Bus Pass Recharge
